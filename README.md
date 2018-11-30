@@ -1,4 +1,4 @@
-# spring-cloud-zuul
+# Eureka Server and Zuul Proxy Integration
 
 ## Getting Started
 Integrated Zuul Proxy and Eureka Server
